@@ -62,9 +62,17 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 4. [Huang, R.](https://www.researchgate.net/profile/Rong-Huang-65)(Supervisor), **Chen, Y.**, Song, B., et al. (2024) Experimental Study on Single-file Passenger Flow Movement Characteristics in High-speed Train Cabin Areas. **In preparation**.<br>
 * Description: This paper is about pedestrians' evacuation behaviors, an interesting topic for learning pedestrian dynamics.
 
+## 🀄 Conferences
 
+1. **Chen, Y.**, Sun, W., & [Wu, F.](https://www.researchgate.net/profile/Fuwei-Wu)(Supervisor). (2024) [Pedestrian Perception of Vehicle Movement Information in Virtual Reality: A Subjective and Objective Analysis](https://sugar-eatingsheep.github.io/yang.github.io/docs/TRBAM-25-01553.pdf). Submitted to 104th Annual Meeting of Transportation Research Board (TRB 2025). **Under review**
+* Description: This article is a derivative work of the Journal Paper *A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments*.
 
-## Papers under review
+1. **Chen, Y.**. (2023) [Research on Short-term Passenger Flow Prediction Method of Urban Railway Based on Machine Learning](https://sugar-eatingsheep.github.io/yang.github.io/docs/conference 2. Final version.pdf). 5th International Conference on Computing and Data Science (CONF-CDS 2023). **Accepted**.
+
+1. **Chen, Y.**, Luo, Y., & Zhang, H. (2023). [Modification and Application of ALPI Model Based on Image Gray Value Analysis and K-Means](https://ieeexplore.ieee.org/document/10257787). 2023 IEEE International Conference on Image Processing and Computer Applications (ICIPCA) (pp. 508-512). IEEE. https://doi.org/10.1109/ICIPCA59209.2023.10257787. **Accepted**.
+
+1. Li, E., Ding, D.(Supervisor), Song, B., **Chen, Y.**, et al. (2024) Bayesian Loss-Based Crowdedness Estimation in Subway Stations. 2024 World Transport Convention (WTC). **Accepted**.
+
 
 - Incorporating Traffic History Variables in Time-Series Acceleration Prediction Models for Highway Tunnel Exits Using Attention-Enhanced LSTM Networks. Wenxuan Wang, **Lexing Zhang**, Jiale Lei, Yin Feng, Hengxu Hu. 104th Annual Meeting of Transportation Research Board (TRB 2025).
 
