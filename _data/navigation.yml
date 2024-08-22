@@ -4,13 +4,13 @@ main:
     url: "/#-am"
 
   - title: "Education"
-    url: "/#-xl"
+    url: "/#-ed"
 
   - title: "Publications"
     url: "/#-pub"
 
   - title: "Honors and Awards"
-    url: "/#-haa"
+    url: "/#-honorsandawards"
 
   - title: "Skills"
     url: "/#-skills"
