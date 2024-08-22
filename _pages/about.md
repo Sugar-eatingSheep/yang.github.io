@@ -39,13 +39,16 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 
 <br>
 <span class='anchor' id='-xl'></span>
+
 # 🎓 Education
 - *2024.09 - Present*, Master of Science in Civil Engineering (General Stream) <br> The University of Hong Kong, Hong Kong, China
 - *2020.09 - 2024.07*, Bachelor of Engineering in Transportation <br> Chang'an University, Xi'an, China (211 Project)
 - *2020.09 - 2024.07*, Bachelor of Science in Transport, City Planning & Environmental Policy (**First Class Honours**) <br> University College Dublin, Dublin, Ireland (2025 QS Ranking: 126)
 
-<br>
+<be>
+
 <span class='anchor' id='-pub'></span>
+
 # 📝 Publications
 
 ## 👋 Journals
