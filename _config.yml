@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lexing Zhang(le hsing chang)"
-description              : "Exchange Student(B.E. Student)"
+title                    : "Yang Chen (陈洋)"
+description              : "Transportation Engineering, Traffic Safety"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lexing Zhang(le hsing chang)"
+  name             : "Yang Chen (陈洋)"
   avatar           : "images/myphoto.png"
-  bio              : "National University of Singapore(Chang'an University)"
-  location         : "Singapore,Singapore"
+  bio              : "University of Hong Kong, HKU"
+  location         : "Hong Kong, China"
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "u1375989@u.nus.edu"
+  email            : "yangchen-hku@connect.hku.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
