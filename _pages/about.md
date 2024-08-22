@@ -37,7 +37,7 @@ Since then, Yang Chen developed research interests in **traffic safety, human fa
 
 Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_blank"}.
 
-<span class='anchor' id='-xl'></span>
+<span class='anchor' id='-ed'></span>
 
 # 🎓 Education
 - *2024.09 - Present*, Master of Science in Civil Engineering (General Stream) <br> The University of Hong Kong, Hong Kong, China
@@ -89,7 +89,7 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 
 1. National Utility Model Patent "A dust-reducing and purifying underground space device 一种降尘净化地下空间装置", China. Inventors: Enkai Li, Bingkun Song, Boyao Peng, Lexing Zhang, Wenjing Ye, Wanting Fan, Yixue Dai, **Yang Chen**, Jiupeng Zhang (Supervisor). `Grant Number: ZL 202322572917.6`.
 
-<span class='anchor' id='-haa'></span>
+<span class='anchor' id='-honorsandawards'></span>
 
 # 🎖 Honors and Awards
 1. Outstanding Undergraduate Graduate, Chang’an University
