@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: "https://sugar-eatingsheep.github.io/yang.github.io/#-am"
+    url: "/#-am"
 
   - title: "Education"
-    url: "https://sugar-eatingsheep.github.io/yang.github.io/#-xl"
+    url: "/#-xl"
 
   - title: "Publications"
-    url: "https://sugar-eatingsheep.github.io/yang.github.io/#-pub"
+    url: "/#-pub"
 
   - title: "Honors and Awards"
-    url: "https://sugar-eatingsheep.github.io/yang.github.io/#-haa"
+    url: "/#-haa"
 
   - title: "Skills"
-    url: "https://sugar-eatingsheep.github.io/yang.github.io/#-skills"
+    url: "/#-skills"
