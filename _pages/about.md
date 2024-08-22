@@ -40,9 +40,9 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 <br>
 
 # 🎓 Education
-- *2024.09 - Present*, Master <a href="https://www.hku.hk/"><img class="png" src="/images/hku.png" width="23pt"></a> The University of Hong Kong, Hong Kong, China
-- *2020.09 - 2024.07*, Bachelor <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/chd.jpg" width="23pt"></a> Chang'an University, Xi'an, China
-- *2020.09 - 2024.07*, Bachelor <a href="https://www.ucd.ie/"><img class="jpg" src="/images/ucd.jpg" width="23pt"></a> University College Dublin, Dublin, Ireland
+- *2024.09 - Present*, Master of Science in Civil Engineering (General Stream) <br> <a href="https://www.hku.hk/"><img class="png" src="/images/hku.png" width="23pt"></a> The University of Hong Kong, Hong Kong, China
+- *2020.09 - 2024.07*, Bachelor of Engineering in Transportation <br> <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/chd.jpg" width="23pt"></a> Chang'an University, Xi'an, China (211 Project)
+- *2020.09 - 2024.07*, Bachelor of Science in Transport, City Planning & Environmental Policy (**First Class Honours**) <br> <a href="https://www.ucd.ie/"><img class="jpg" src="/images/ucd.jpg" width="23pt"></a> University College Dublin, Dublin, Ireland (2025 QS Ranking: 126)
 
 <br>
 
