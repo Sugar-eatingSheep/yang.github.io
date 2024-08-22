@@ -48,34 +48,19 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 
 # 📝 Publications
 
-## Accepted papers
+## 👋 Journals
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TRB 2024</div><img class="jpg" src="/images/paper_TR2024.jpg" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+1. [Wu, F.](https://www.researchgate.net/profile/Fuwei-Wu)(Supervisor), Sun, W., **Chen, Y.**, et al. (2024) A Comparative Study on Pedestrian Perception of Vehicle Movement Information in Virtual Reality and Real-world Environments 虚实环境下行人对车辆运动信息感知特性对比研究. Submitted to *Journal of Transportation Systems Engineering and Information Technology 交通运输系统工程与信息* (EI, IF=2.27). **Under review**.
+<br> Description: This paper conducted the experimental tasks of vehicle speed estimation and vehicle arrival time estimation in both environments, and a total of 37 subjects' experimental data were collected. By comparing and analyzing the performance of participants' perception of vehicle motion information with the bias values of estimated speed and arrival time as the analytical indexes, this paper discusses the influence of vehicle speed, individual characteristics, and other factors on the experimental results. The results demonstrate that compared to the real-world experiment, pedestrians tend to underestimate vehicle speed in VR environments, although their estimation of arrival time remains consistent; vehicle speed has a consistent trend in affecting pedestrians' perceptual bias in both environments; and different individual characteristics do not contribute to the differences in pedestrians' perceptions between the two environments. These research findings can provide theoretical references for studying interactions between pedestrians and vehicles in VR environments.
 
-[LANE LEVEL JOINT CONTROL OF OFF-RAMP AND MAIN LINE SPEED GUIDANCE ON EXPRESSWAY IN RAINY WEATHER](https://arxiv.org/abs/2403.14172)
+1. **Chen, Y.**, [Wang, C.](https://orcid.org/0000-0003-3531-1215)(Supervisor), [Fu, R.](https://www.researchgate.net/profile/Rui-Fu-16)(Supervisor), et al. (2024) Experimental Studies of Passenger Motion Sickness for Electric Bus Dynamical Characteristics under Different Operating Conditions. **In preparation**.
+<br> Description: Since road public transportation systems in many cities are currently equipped with electric buses, however, their dynamic characteristics under different urban commuting conditions are still uncertain concerning the passengers' motion sickness levels. Therefore, in this paper, we will take the electric bus commuting network in Xi'an, China, as an example to explore the motion sickness characteristics of passengers traveling on electric buses. Simulation and other means will be employed to explore how to reduce or inhibit this phenomenon.
 
-Boyao Peng, **Lexing Zhang**, Enkai Li
+1. **Chen, Y.**, Ye, H., Song, B., et al. (2024) Macro and Micro Comparative Analysis of Two-wheeled and Three-wheeled Non-motorized Vehicles at Urban Signalized Intersections: Dynamics and Interactions. **In preparation**.
+<br> Description: This paper is supposed to be an extended version of my undergraduate thesis. We will conduct our research based on the current relatively novel SIND dataset and introduce some deep learning and machine learning models to build our own modeling framework. I believe it is fundamental research to study non-motorized operating behavior, and subsequently, I will continue to expand to human factors, human-vehicle interaction, and other aspects to deepen the value of this research.
 
-**contribution** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Complete METANET simulation program development using MATLAB language
-- Data visualization
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCEPT 2024</div><img class="jpg" src="/images/zyl.jpg" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Free-flow tolling system for expressway with fusion of 5G communication and high-precision positioning technology](../docs/zyl.pdf){:target="_blank"}
-
-Boyao Peng, **Lexing Zhang**, Enkai Li, Yin Feng, Ying Zhang, Li Zhong
-
-**contribution** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Simulation Modeling and Parameter Calibration of Metacellular Automata
-- Completion of metacellular automata simulation program development using MATLAB language
-- Data visualization
-</div>
-</div>
+1. [Huang, R.](https://www.researchgate.net/profile/Rong-Huang-65)(Supervisor), **Chen, Y.**, Song, B., et al. (2024) Experimental Study on Single-file Passenger Flow Movement Characteristics in High-speed Train Cabin Areas. **In preparation**.
+<br> Description: This paper is about pedestrians' evacuation behaviors, an interesting topic for learning pedestrian dynamics.
 
 
 
