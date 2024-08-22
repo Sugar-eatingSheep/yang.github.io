@@ -87,26 +87,41 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 
 1. National Utility Model Patent "Automobile pedal force detection equipment 一种汽车踏板力检测设备", China. Inventors: Lei Ma (Supervisor), Yuwen Luo, **Yang Chen**. `Grant Number: ZL 202320121810.7`.
 
-1. National Utility Model Patent "A dust-reducing and purifying underground space device 一种降尘净化地下空间装置", China. Inventors: Enkai Li, Bingkun Song, Boyao Peng, Lexing Zhang, Wenjing Ye, Wanting Fan, Yixue Dai, **Yang Chen**, Jiupeng Zhang (Supervisor). **Grant Number: `ZL 202322572917.6`.
+1. National Utility Model Patent "A dust-reducing and purifying underground space device 一种降尘净化地下空间装置", China. Inventors: Enkai Li, Bingkun Song, Boyao Peng, Lexing Zhang, Wenjing Ye, Wanting Fan, Yixue Dai, **Yang Chen**, Jiupeng Zhang (Supervisor). `Grant Number: ZL 202322572917.6`.
 
 <span class='anchor' id='-haa'></span>
 
 # 🎖 Honors and Awards
-- National Scholarship(Top 1%)
-- Class Academic Merit Scholarship
-- College Contribution Scholarship
-- Course Excellence Scholarship
-- National 1st Prize, The 18th "Challenge Cup" National College Students' Extracurricular Academic Science and Technology Works Competition
-- Honorable Mention, 2024 American Collegiate Mathematical Modeling Contest
-- Provincial 1st Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling
-- Provincial 1st Prize, the 1st Shaanxi Provincial College Students Transportation Technology Competition in 2023
-- Provincial 2nd Prize, the 1st Shaanxi Provincial College Students Transportation Technology Competition in 2023
-- Provincial 2nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
-- Provincial 3nd Prize, the 2nd Shaanxi Provincial College Students Transportation Technology Competition in 2024
+1. Outstanding Undergraduate Graduate, Chang’an University
+1. Outstanding Undergraduate Thesis Award (Top 0.9%), Chang’an University
+1. 1st Class Academic Merit Scholarship (2022-2023), 2nd Class Academic Merit Scholarship (2021-2022), 1st Class Academic Merit Scholarship (2020-2021)
+1. 2022-2023 University Contribution Scholarship
+1. 2022-2023 College "Double Innovation Star" Scholarship - Innovation & Entrepreneurship (5%)
+1. Course Excellence Scholarship
+1. Provincial "Outstanding Social Practice Team" Award in 2022
+1. University "Outstanding Social Practice Individual" Award in 2022
+1. National 2nd Prize, 19th National College Students Transportation Technology Competition `Top competition for undergraduates majored in transportation in mainland China` (5/5) in 2024
+1. National 2nd Prize, 18th National College Students Transportation Technology Competition (1/5) in 2023
+1. Finalist Award, 2023 American Mathematical Contest in Modeling (MCM/ICM)
+1. International Bronze Award, 8th China International "Internet+" College Students Innovation and Entrepreneurship Competition (2/4) in 2023
+1. International Bronze Award, 9th China International "Internet+" College Students Innovation and Entrepreneurship Competition (1/3) in 2024
+1. Outstanding Award, 2023 "Huashu Cup" International Mathematical Contest in Modeling
+1. Provincial Outstanding Award, 18th "Challenge Cup" National College Students Extracurricular Academic Science and Technology Works Competition (3/9) in 2023
+1. Provincial 1st Prize, "Higher Education Society Cup" National Undergraduate Mathematical Contest in Modeling in 2022
+1. Provincial 1st Prize, 19th National College Students Transportation Technology Competition Shaanxi Division (5/5) in 2024
+1. Provincial 2nd Prize, 19th National College Students Transportation Technology Competition Shaanxi Division (5/5) in 2024            1. Provincial 2nd Prize, 9th China International "Internet+" College Students Innovation and Entrepreneurship Competition (4/8) in 2023
+1. Provincial 2nd Prize, 11th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition (2/5) in 2022
+1. Provincial 3rd Prize, 18th National College Students Transportation Technology Competition Shaanxi Division (1/5) in 2023
+1. Provincial 3rd Prize, 14th "Challenge Cup" Shaanxi Automobile Group College Student Entrepreneurship Plan School-Enterprise Special Competition (1/5) in 2023
 
 <span class='anchor' id='-skills'></span>
 
 # 📚 Skills 
-- Software: SPSS, MATLAB, Visio, VISSIM, AutoCAD, Origin.
-- Computer skills: Python, familiar with Deep learning algorithms and data processing skills.
-- English Level: CET-4 (531), CET-4 (439), TOEFL (88).
+1. Slogan: Stay happy, stay foolish, stay hardworking. 
+1. Software: SPSS, MATLAB, ArcGIS, LaTeX, Visio, Origin, AutoCAD.
+1. Computer Skills: Python, familiar with basic machine learning algorithms, and basic skills of data processing.
+1. Language: English (IELTS: 6.5/6, CET-4: 564, CET-6: 519), Chinese (native speaker).
+
+<span class='anchor' id='-skills'></span>
+
+# 🤗 Thank you for reading this far!
