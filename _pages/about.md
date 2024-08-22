@@ -17,21 +17,20 @@ redirect_from:
 
 <span class='anchor' id='-am'></span>
 
-# <font size=6>Welcome to Lexing Zhang's homepage!</font>
+# <font size=6>Hello professor, Welcome to Yang Chen's homepage! 🤞</font>
 
-I am currently an exchange student at National University of Singapore and an undergraduate student at Chang'an University.
+Yang Chen is currently pursuing an M.Sc. degree in Civil Engineering at the University of Hong Kong. Before that, he received his dual bachelor degrees from Chang'an University (211 Project), Xi'an, China, and University College Dublin (2025 QS World University Ranking: 126), Ireland. At these two institutions, he earned a B.Eng. degree in Transportation and a B.Sc. degree (**First Class Honours**) in Transport, City Planning & Environmental Policy, respectively.
 
+During his undergraduate studies, Yang Chen had accumulated extensive research experience. After the pandemic (nearly 2 years of pitiful dormitory life 😥), starting from the summer between his sophomore and junior years, he led a Provincial College Student Innovation and Entrepreneurship Training Program as the project leader and participated as the second leader in a National College Student Innovation and Entrepreneurship Training Program. Both projects explored safety issues encountered by human drivers from the perspectives of human factors and traffic safety, focusing on issues such as pedal misapplication and visual blind spots.
 
-I have published a number of academic papers in TRB and other international conferences, and a number of patents are in the substantive examination stage. 
-
-
-I am familiar with a variety of deep learning algorithms, and have strong skills in Python and MATLAB programming.
+Since then, Yang Chen developed research interests in **traffic safety, human factors, and intelligent transportation**. Throughout the subsequent two years of his undergraduate studies, he came up with many ideas and conducted much research at the School of Automobile, Chang'an University, and the Key Laboratory of Automobile Transportation Safety Technology, Ministry of Transport, China. He served as a **part-time research assistant**, leading projects such as **topics in L2-level human-machine co-driving modes** (e.g., fatigue, distraction, driving habits, etc.), **interactions between vulnerable traffic participants** (e.g., pedestrians, non-motorized vehicles, etc.) **and autonomous vehicles in VR environments**, and **evaluation of motion sickness characteristics in electric vehicle passengers** (with the latter two projects still ongoing 😀).
 
 **Research Interests:**
-- Reinforcement learning
-- Deep learning
-- Intelligent Transportation Systems
-- Transportation safety
+1. Intelligent transportation system
+1. Autonomous vehicles, AV
+1. Traffic safety
+1. Human factors, driver behaviors, driving simulator
+1. VR, interaction between traffic participants and AVs
 
 Please find my CV [here](../docs/Lexing_Zhang_CV.pdf "LExing Zhang's CV"){:target="_blank"}.
 
