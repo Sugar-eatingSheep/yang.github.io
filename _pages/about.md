@@ -35,7 +35,7 @@ Since then, Yang Chen developed research interests in **traffic safety, human fa
 1. Human factors, driver behaviors, driving simulator
 1. VR, interaction between traffic participants and AVs
 
-Please find my CV [here](/docs/Yang CHEN--CV.pdf).
+Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_blank"}.
 
 <span class='anchor' id='-ed'></span>
 
