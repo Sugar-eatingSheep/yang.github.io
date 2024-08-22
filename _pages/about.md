@@ -37,15 +37,16 @@ Since then, Yang Chen developed research interests in **traffic safety, human fa
 
 Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_blank"}.
 
-<span class='anchor' id='-xl'></span>
+<br>
 
-# 🎓 education
-- *2024.08 - Present*, <a href="https://www.nus.edu.sg/"><img class="jpeg" src="/images/R.jpeg" width="23pt"></a> National University of Singapore, Department of Civil and Environmental Engineering, Exchange Student
-- *2021.08 - Present*, <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/xh2.jpg" width="23pt"></a> Chang'an University, School of Transportation Engineering, undergraduate
+# 🎓 Education
+- *2024.09 - Present*, Master <a href="https://www.hku.hk/"><img class="png" src="/images/hku.png" width="23pt"></a> The University of Hong Kong, Hong Kong, China
+- *2020.09 - 2024.07*, Bachelor <a href="https://en.chd.edu.cn/"><img class="jpg" src="/images/chd.jpg" width="23pt"></a> Chang'an University, Xi'an, China
+- *2020.09 - 2024.07*, Bachelor <a href="https://www.ucd.ie/"><img class="jpg" src="/images/ucd.jpg" width="23pt"></a> University College Dublin, Dublin, Ireland
 
-<span class='anchor' id='-pub'></span>
+<br>
 
-# 📝publications
+# 📝 Publications
 
 ## Accepted papers
 
