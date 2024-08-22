@@ -73,10 +73,9 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 
 1. Li, E., Ding, D.(Supervisor), Song, B., **Chen, Y.**, et al. (2024) Bayesian Loss-Based Crowdedness Estimation in Subway Stations. 2024 World Transport Convention (WTC). **Accepted**.
 
+## 👨🏻‍🎓 Thesis <be>
 
-- Incorporating Traffic History Variables in Time-Series Acceleration Prediction Models for Highway Tunnel Exits Using Attention-Enhanced LSTM Networks. Wenxuan Wang, **Lexing Zhang**, Jiale Lei, Yin Feng, Hengxu Hu. 104th Annual Meeting of Transportation Research Board (TRB 2025).
-
-- From Lockdown to Recovery: Modeling the Long-term Effects of COVID-19 on Xi'an's Metro Ridership. Chen Ma, Baixi Shi, Yanqiu Cheng, **Lexing Zhang**, Kuanmin Chen. 104th Annual Meeting of Transportation Research Board (TRB 2025).
+(Undergraduate Thesis) **Chen, Y.**, 2024, [Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections](https://sugar-eatingsheep.github.io/yang.github.io/docs/本科毕设最终报告.pdf). **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. [Wang Yongjie](https://orcid.org/0000-0003-2559-7619), Chang'an University.
 
 <span class='anchor' id='-haa'></span>
 
