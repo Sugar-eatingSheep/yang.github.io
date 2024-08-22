@@ -77,6 +77,18 @@ Please find my CV [here](../docs/Yang CHEN--CV.pdf "Yang Chen's CV"){:target="_b
 
 (Undergraduate Thesis) **Chen, Y.**, 2024, [Characterization of Non-motorized Vehicles Crossing Traffic Flows at Urban Intersections](https://sugar-eatingsheep.github.io/yang.github.io/docs/本科毕设最终报告.pdf). **Won the Outstanding Undergraduate Thesis Award (rank 1st among 109 students in the Program) ✌🏻**, Chang’an University. Supervisor: Associate Prof. [Wang Yongjie](https://orcid.org/0000-0003-2559-7619), Chang'an University.
 
+## 💼 Selected Patents
+
+1. National Invention Patent "A Method and System for Identifying Misoperation Behavior of Automobile Driver's Pedal 一种汽车驾驶员踏板误操作行为识别方法和系统", China. Inventors: **Yang Chen**, Chang Wang (Supervisor), Yuwen Luo, Yifan Cao, Lei Ma (Supervisor). **Under review**.
+
+1. National Invention Patent "Automobile intelligent blind area monitoring and early warning system based on driver attention assessment 一种基于驾驶人注意力评估的汽车智能盲区监测及预警系统", China. Inventors: Shuo Zhang (Supervisor), **Yang Chen**, Yifan Cao, Yuwen Luo. **Under review**.
+
+1. National Invention Patent "A frozen soil retaining wall and construction method 一种冻土挡土墙及其施工方法", China. Inventors: Bingkun Song, Enkai Li, Yixie Dai, **Yang Chen**, Xuesong Mao, Zhongjie Hou, Yuwen Luo. **Under review**.
+
+1. National Utility Model Patent "Automobile pedal force detection equipment 一种汽车踏板力检测设备", China. Inventors: Lei Ma (Supervisor), Yuwen Luo, **Yang Chen**. `Grant Number: ZL 202320121810.7`.
+
+1. National Utility Model Patent "A dust-reducing and purifying underground space device 一种降尘净化地下空间装置", China. Inventors: Enkai Li, Bingkun Song, Boyao Peng, Lexing Zhang, Wenjing Ye, Wanting Fan, Yixue Dai, **Yang Chen**, Jiupeng Zhang (Supervisor). **Grant Number: `ZL 202322572917.6`.
+
 <span class='anchor' id='-haa'></span>
 
 # 🎖 Honors and Awards
